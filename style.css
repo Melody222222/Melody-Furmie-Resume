@@ -1,0 +1,98 @@
+body {
+background-color: aliceblue;
+
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 8px;
+ 
+}
+.qualifications { 
+    margin-left: 20px;
+    font-weight: 300;
+    margin-top: 200px;
+    margin-left: 80px;
+}
+.aboutMe {
+    gap: 1px;
+margin-left: 30px;
+    margin-right: 120px;
+    font-weight: 300;
+}
+.workHistory {
+    gap: 1px;
+    margin-right: 120px;
+    font-weight: 300;
+    margin-left: 40px;
+}
+
+.container {
+    margin-left: 75%;
+    width: fit-content;
+    padding: 4px;
+    margin-top: 2%;
+    border-radius: 6px;
+}
+lh {
+    font-weight: 500;
+    width: fit-content; 
+    padding: 4px;
+    padding-right: 30px;
+    font-family: 'Roboto Slab', serif;
+}
+ul {
+    background-color: lightgray;
+    width: fit-content; 
+    border-radius: 5px;
+}
+li {
+    padding: 5px;
+    margin: 1px;
+    border-radius: 1px;
+    font-weight: 300;
+}
+h2, h3, h4 {
+    font-family: 'Roboto Slab', serif;
+    margin-left: -1%;
+}
+h6 {
+    font-family: 'Roboto Slab', serif;
+    margin-right: 1%;
+}
+a {
+    color: black;
+}
+a:hover {
+    color: white;
+}
+#contactInfo {
+    background-color: #F0F0F0;
+    margin-left: 74%;
+    margin-right: -2%;
+margin-top: -50%;
+    font-weight: 300;
+    border-radius: 2px;
+    width: fit-content;
+    border-width: 8px;
+    padding: 5px;
+}
+p {
+    font-weight: 300;
+   
+}
+img {
+max-width: 200px;
+max-height: 350px;
+border-radius: 6px;
+margin-left: 80px;
+}
+.references {
+    margin-left: 80px;
+    font-weight: 300;
+}
+.navbar-toggler-icon {
+padding-left: 70%;
+}
